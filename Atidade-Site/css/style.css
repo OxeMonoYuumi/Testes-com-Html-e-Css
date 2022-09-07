@@ -1,0 +1,86 @@
+body {
+    background-color: rgb(24, 23, 23);
+}
+
+.navi {
+    background-color: deepskyblue;
+}
+
+.navi a {
+    color: white;
+    font-size: 25px;
+}
+
+.logo {
+    width: 200px;
+    height: 80px;
+}
+
+/* PESQUISA */
+.pesquisa {
+    margin-top: 70px;
+    margin-bottom: 50px;
+}
+
+.barra {
+    width: 250px;
+    height: 40px;
+}
+
+.lup {
+    color: white;
+}
+/* FIM PESQUISA */
+
+/* CAROUSEL */
+.carou {
+    margin-bottom: 70px;
+}
+.foto {
+    height: 500px;
+}
+/* FIM CAROUSEL */
+
+/* PRODUTO 1 */
+.produ {
+    margin-bottom: 60px;
+}
+.titulo {
+    color: white;
+    margin-bottom: 20px;
+}
+.para {
+    font-size: 20px;
+    color: green;
+}
+/* FIM PRODUTO 1 */
+
+
+/* FOOTER */
+
+#footer {
+    border-top: 1px solid rgb(17, 152, 186);
+    height: 200px;
+    padding: 30px;
+    background-color: rgba(15, 60, 112, 0.925);
+
+}
+
+#footer i {
+    font-size: 30px;
+    color:    white  ;
+}
+
+#icon{
+    padding: 10px;
+    padding-left: 20px;
+}
+
+#footer p {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    font-weight: bolder;
+    color:white ;
+}
+/* FIM FOOTER */
