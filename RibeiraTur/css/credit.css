@@ -1,0 +1,165 @@
+*{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.borda {
+    margin-top: 20px;
+    border-radius: 10px ;
+    border: 1px solid rgba(0, 0, 0, 0.197);
+}
+
+.cre {
+    margin-bottom: 20px;
+}
+
+/* MENU */
+#menu {
+    background-color: rgb(13, 194, 13);
+    height: 65px;
+    
+}
+.men:hover {
+    background-color: rgb(27, 170, 27);
+    height: 51px;
+    transition: 2s;
+}
+
+#logo {
+    width: 150px;
+    height: 35px;
+    margin-top: 15px;
+}
+
+#sobre {
+    margin-top: 10px;
+    height: 40px;
+    font-size: 25px;
+}
+
+#pacotes {
+    margin-top: 10px;
+    font-size: 25px;
+}
+
+#cidades {
+    margin-top: 10px;
+    font-size: 25px;
+}
+
+#carrinho {
+    margin-top: 10px;
+    font-size: 25px;
+}
+
+#login {
+    margin-top: 10px;
+    font-size: 25px;
+}
+
+.barra {
+    margin-top: 10px;
+}
+
+.botao{
+    background-color: rgba(0, 128, 0, 0);
+    border: none;
+}
+
+.reg {
+    border-bottom: 1px solid black;
+}
+
+.igu {
+    border-bottom: 1px solid black;
+}
+
+.bar {
+    border-bottom: 1px solid black;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+/* PERFIL */
+.perfil {
+    color: black;
+    margin-top: 10px;
+    font-size: 25px;
+    animation: none;
+
+}
+/* FIM PERFIL */
+/* FIM MENU */
+
+
+/* PLANOS EMPRESA */
+.carta {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.card-img-top{
+    height: 200px; 
+}
+
+.cartinha {
+    margin-bottom: 20px;
+}
+/* FIM PLANOS EMPRESA */
+
+/* FUNDO */
+.fundo {
+    height: 300px;
+}
+.tras {
+    background-image: url('../img/bg.png');
+}
+/* FIM FUNDO */
+
+/* FOOTER */
+footer {
+    border-top: 2px solid greenyellow;
+    height: 200px;
+    padding: 30px;
+    background-color: rgb(2, 104, 2);
+    margin: 0px;
+}
+
+footer i {
+    font-size: 30px;
+    color: white    ;
+}
+
+#icon{
+    padding: 10px;
+}
+
+footer p {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    font-weight: bolder;
+    color: white;
+}
+
+.emcima {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.sociais {
+    background-color: rgba(253, 47, 47, 0.925);
+    border-radius: 5px;
+}
+.sociais a {
+    color: aliceblue;
+    text-decoration: none;
+}
+
+a:hover{
+    color: black;
+}
+/* FIM FOOTER */
+
